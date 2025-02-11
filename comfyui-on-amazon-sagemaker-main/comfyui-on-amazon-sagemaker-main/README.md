@@ -1,4 +1,4 @@
-# ComfyUI on Amazon SageMaker
+# ComfyGen 
 This project demonstrates how to generate images using Stable Diffusion by hosting ComfyUI on Amazon SageMaker Inference. It is a design pattern that allows adding GenAI image generation capability to your application.
 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) is one of the most popular GUI and backend that allows you to generate images using Stable Diffusion. Some of the key features:
